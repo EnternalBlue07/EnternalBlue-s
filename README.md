@@ -109,3 +109,5 @@ This extension is licensed under the MIT License. See the [LICENSE](https://gith
 - Repo social share image made with [GitHub Socialify](https://socialify.git.ci/)
 - Extension icon made with [DALL-E-2](https://openai.com/dall-e-2/)
 - Chrome Web Store assets [Figma template](https://www.figma.com/community/file/1088380138639295338) from [Miki Ishiima](https://www.figma.com/@mikiishijima)
+
+All Credit Goes To https://github.com/itsbrex/ChatGPT-Cookies.Thanks for this Readme stuff. 
